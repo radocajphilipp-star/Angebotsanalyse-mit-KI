@@ -337,7 +337,9 @@ Gefunden wurden beide richtigen Treffer: bei Elektro Meier der Hinweis auf varii
 
 **Test 4, der Ablehnungsfall.** Derselbe Ablauf, in der Freigabemail aber mit der Entscheidung `ablehnen`:
 
+
 <!-- BILD 4: Auszug aus der E-Mail, die die Ablehnung bestätigt --> <img width="2128" height="1195" alt="Ablehnungsmail" src="https://github.com/user-attachments/assets/d5dea7d7-7e99-406c-a067-1179aa27ff5e" />
+
 
 ```json
 {
