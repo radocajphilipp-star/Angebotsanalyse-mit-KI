@@ -326,12 +326,12 @@ Die Metadaten sind nicht Beiwerk. Wird ein Angebot in zwei Abschnitte geteilt, e
 *Frage 1, Faktenabruf:* „Wer hat für die Wohnanlage angeboten und was hat es gekostet?"
 Alle drei Anbieter wurden mit korrekten Preisen genannt: Elektro Meier 9.500 EUR, Bau & Trockenbau 11.000 EUR, Schmidt Sanitärtechnik 14.000 EUR. Der Assistent ergänzte von sich aus den Hinweis, dass sich die Kosten jeweils nur auf das Fachgebiet des Anbieters beziehen.
 
-<!-- BILD 2: Chatfenster mit Frage 1 und Antwort, rechts die Logs -->
+<!-- BILD 2: Chatfenster mit Frage 1 und Antwort, rechts die Logs --> <img width="1861" height="379" alt="Test_Text_Message_Anfrage1" src="https://github.com/user-attachments/assets/7bf71341-8f82-47b6-b662-54f708dadc38" />  
 
 *Frage 2, Bedeutungssuche:* „Bei welchen Angeboten besteht das Risiko, dass später Kosten dazukommen?"
 Gefunden wurden beide richtigen Treffer: bei Elektro Meier der Hinweis auf variierende Materialkosten, bei Schmidt Sanitärtechnik der nicht enthaltene Fliesenanteil.
 
-<!-- BILD 3: Chatfenster mit Frage 2 und Antwort, rechts die Logs -->
+<!-- BILD 3: Chatfenster mit Frage 2 und Antwort, rechts die Logs --> <img width="1869" height="364" alt="Test_Text_Message_Anfrage2" src="https://github.com/user-attachments/assets/9eb76ea1-31ad-48d6-b650-9a636e1c3978" />
 
 **Das ist der Beleg für den Nutzen der Erweiterung.** Weder „Risiko" noch „dazukommen" kommt in einem der Angebote vor. Eine Volltextsuche hätte null Treffer geliefert. Die Suche über Embeddings hat die Bedeutung erkannt.
 
