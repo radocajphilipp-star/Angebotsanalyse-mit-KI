@@ -297,6 +297,8 @@ Auffälligkeiten: Materialkosten können variieren.
 
 Die Freigabe wurde erteilt und korrekt ausgewertet:
 
+<!-- BILD 2: Auszug aus der Freigabemail --> <img width="1564" height="1135" alt="Freigabemail" src="https://github.com/user-attachments/assets/d356a348-e4ae-4677-b4d2-fc463662daae" />
+
 ```json
 {
   "freigabe": "freigeben",
