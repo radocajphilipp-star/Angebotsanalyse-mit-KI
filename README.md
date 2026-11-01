@@ -79,7 +79,7 @@ flowchart TD
     V --> W[Simple Vector Store: durchsuchen]
 ```
 
-<!-- BILD 1: Gesamtansicht des Workflows in n8n, mit den beiden farbigen Bereichen -->
+<!-- BILD 1: Gesamtansicht des Workflows in n8n, mit den beiden farbigen Bereichen --> <img width="1839" height="643" alt="Gesamtworkflow" src="https://github.com/user-attachments/assets/adb4b307-3993-4edc-b356-90422e06d802" />
 
 *Der Workflow in n8n. Der gelbe Bereich ist der ursprüngliche Ablauf, der violette Bereich speichert jedes Angebot im Vector Store, der untere Bereich ist der Chat-Assistent.*
 
