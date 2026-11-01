@@ -1,3 +1,4 @@
+<img width="1839" height="643" alt="Gesamtworkflow" src="https://github.com/user-attachments/assets/33e22446-29d1-4c1c-ad1a-ed92a4697e2a" />
 # Angebotsanalyse mit KI
 
 Ein n8n-Workflow, der eingehende Angebote in verschiedenen Dateiformaten ausliest, in eine einheitliche Struktur bringt, miteinander vergleicht, die Bewertung einem Menschen zur Freigabe vorlegt und erst danach ablegt. Entstanden im Rahmen der Weiterbildung zum KI-Integrationsmanager (IHK).
